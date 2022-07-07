@@ -1,0 +1,5 @@
+﻿  main.c
+D:\download\assembly_exp\mine\lab3\3.2\main.c(63,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+D:\download\assembly_exp\mine\lab3\3.2\main.c(63,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+D:\download\assembly_exp\mine\lab3\3.2\main.c(63,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 4 拥有了类型“int”
+  3.2.vcxproj -> D:\download\assembly_exp\mine\lab3\3.2\Debug\3.2.exe

@@ -1,0 +1,3 @@
+﻿  Assembling 4.asm...
+4.asm(46): error A2101: cannot add two relocatable labels
+D:\VS\ide\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml.exe /c /nologo /Zi /Fo"Debug\4.obj" /W3 /errorReport:prompt  /Ta4.asm”已退出，返回代码为 1。

@@ -1,0 +1,3 @@
+﻿  main.c
+D:\download\assembly_exp\mine\lab5\5.2\main.c(13,9): warning C4101: “j”: 未引用的局部变量
+  5.2.vcxproj -> D:\download\assembly_exp\mine\lab5\5.2\Debug\5.2.exe

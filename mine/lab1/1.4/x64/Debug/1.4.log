@@ -1,0 +1,11 @@
+﻿  Assembling 4.asm...
+4.asm(1): error A2008: syntax error : .
+4.asm(2): error A2008: syntax error : .
+4.asm(18): error A2008: syntax error : .
+4.asm(28): error A2008: syntax error : printf
+4.asm(29): warning A6001: no return from procedure
+4.asm(22): error A2022: instruction operands must be the same size
+4.asm(23): error A2022: instruction operands must be the same size
+4.asm(24): error A2022: instruction operands must be the same size
+4.asm(29): warning A6004: procedure argument or local not referenced : c
+D:\VS\ide\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\4.obj" /W3 /errorReport:prompt  /Ta4.asm”已退出，返回代码为 1。
